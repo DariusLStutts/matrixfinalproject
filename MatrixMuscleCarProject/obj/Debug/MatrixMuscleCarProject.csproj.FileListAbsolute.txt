@@ -1,0 +1,2 @@
+C:\Users\teamj\source\repos\DariusLStutts\matrixfinalproject\MatrixMuscleCarProject\obj\Debug\MatrixMuscleCarProject.csprojAssemblyReference.cache
+C:\Users\teamj\source\repos\DariusLStutts\matrixfinalproject\MatrixMuscleCarProject\obj\Debug\MatrixMuscleCarProject.csproj.CoreCompileInputs.cache
