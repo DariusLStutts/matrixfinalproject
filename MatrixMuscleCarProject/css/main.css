@@ -1,2 +1,21 @@
 ﻿body {
+
+}
+
+nav { 
+    position: fixed;
+    top: 0;
+    align-self: center;
+    padding-left: 50%;
+    background-color: aliceblue;
+}
+
+nav ul li{ 
+    display: inline;
+ 
+
+}
+
+a {
+    text-decoration:none;
 }
