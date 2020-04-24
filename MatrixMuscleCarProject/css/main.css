@@ -1,14 +1,48 @@
-﻿body {
+﻿/* body {
 
 }
+/* Css reset */ 
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
 
-nav { 
-    position: fixed;
-    padding-left: 3%;
-    top: 0;
+nav {             
     background-color: black;
+    position: absolute;
     width: 100%; 
-  
+    padding-top: 20px;
+    height: 40px;
+    display: block;
+    position: fixed;
+    z-index: 2;
+}
+
+nav a {
+    font-size: 25px;
+}
+
+#floatinglogo {
+    position: absolute;
+    padding-top: 15%;
+    padding-left: 30%;
+    z-index: 1;
 }
 
 nav ul li {
@@ -16,5 +50,30 @@ nav ul li {
     display: inline;
     padding: 20px;
     color: white; 
-    
+} 
+
+ul li img{ 
+    display: inline;
+    size: 10px;
+}
+
+
+#aboutus { 
+    position: absolute;
+}
+
+#currentprojects { 
+    position: inherit; 
+}
+
+.container {
+    position: relative;
+}
+video { 
+    width: 100%;
+    margin-right: 0;
+    padding:0; 
+    border: 0;
+    position: absolute;
+    display: block;
 }
