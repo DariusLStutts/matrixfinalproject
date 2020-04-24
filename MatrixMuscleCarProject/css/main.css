@@ -4,18 +4,17 @@
 
 nav { 
     position: fixed;
+    padding-left: 3%;
     top: 0;
-    align-self: center;
-    padding-left: 50%;
-    background-color: aliceblue;
+    background-color: black;
+    width: 100%; 
+  
 }
 
-nav ul li{ 
+nav ul li {
+    text-align: center;
     display: inline;
- 
-
-}
-
-a {
-    text-decoration:none;
+    padding: 20px;
+    color: white; 
+    
 }
