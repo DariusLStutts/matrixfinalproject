@@ -2,3 +2,5 @@ C:/Users/teamj/source/repos/DariusLStutts/matrixfinalproject/MatrixMuscleCarProj
 C:/Users/teamj/source/repos/DariusLStutts/matrixfinalproject/MatrixMuscleCarProject/obj/Debug/MatrixMuscleCarProject.csproj.CoreCompileInputs.cache
 /Users/dariusstutts/Documents/Classes/Spring2020/businessprogramming/MatrixProject/MatrixMuscleCarProject/obj/Debug/MatrixMuscleCarProject.csprojAssemblyReference.cache
 /Users/dariusstutts/Documents/Classes/Spring2020/businessprogramming/MatrixProject/MatrixMuscleCarProject/obj/Debug/MatrixMuscleCarProject.csproj.CoreCompileInputs.cache
+C:\Users\teamj\Source\Repos\DariusLStutts\matrixfinalproject\MatrixMuscleCarProject\obj\Debug\MatrixMuscleCarProject.csprojAssemblyReference.cache
+C:\Users\teamj\Source\Repos\DariusLStutts\matrixfinalproject\MatrixMuscleCarProject\obj\Debug\MatrixMuscleCarProject.csproj.CoreCompileInputs.cache
