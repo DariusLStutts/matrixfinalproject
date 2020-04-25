@@ -75,7 +75,6 @@
     <Content Include="LandingPage.html" />
     <Content Include="Humans.txt" />
     <Content Include="MerchandisePage.html" />
-    <Content Include="ServicesPage.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MerchPage.aspx.cs">
@@ -86,9 +85,17 @@
       <DependentUpon>MerchPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Services.aspx" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
