@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{12481322-0B3C-4111-8235-766DCFB911CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixMuscleCarProject/LandingPage.html">
+    <Files>
+      <File FileName="MatrixMuscleCarProject/LandingPage.html" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MatrixMuscleCarProject" expanded="True">
+            <Node name="MatrixMuscleCarProject" expanded="True">
+              <Node name="LandingPage.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MatrixMuscleCarProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

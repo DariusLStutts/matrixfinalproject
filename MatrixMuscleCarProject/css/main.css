@@ -42,7 +42,7 @@ nav a {
 
 #floatinglogo {
     position: absolute;
-    padding-top: 15%;
+    padding-top: 10%;
     padding-left: 30%;
     z-index: 1;
 }
@@ -52,6 +52,7 @@ nav ul li {
     display: inline;
     padding: 20px;
     color: white; 
+ 
 } 
 
 ul li img{ 
@@ -65,7 +66,7 @@ ul li img{
 }
 
 #currentprojects { 
-    position: inherit; 
+    margin-top: 600px;
 }
 
 .container {
@@ -78,4 +79,26 @@ video {
     border: 0;
     position: absolute;
     display: block;
+    margin-bottom: 200px;
+    padding-bottom: 500px;
+
+}
+
+a img {
+    width: 50px;
+    height:50px;
+}
+
+#contact ul li {
+    display: inline;
+   
+
+}
+
+#contact {
+    background-color:#A31F36;
+    padding-top: 300px;
+    margin-top: 150px; 
+    text-align: center;
+    color: white;
 }
