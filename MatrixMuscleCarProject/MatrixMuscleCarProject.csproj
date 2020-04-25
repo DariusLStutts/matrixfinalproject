@@ -71,7 +71,7 @@
     <Content Include="Contacts.html" />
     <Content Include="FAQ.html" />
     <Content Include="css\main.css" />
-    <Content Include="images\MerchPage.aspx" />
+    <Content Include="MerchPage.aspx" />
     <Content Include="LandingPage.html" />
     <Content Include="Humans.txt" />
     <Content Include="MerchandisePage.html" />
@@ -79,11 +79,11 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="images\MerchPage.aspx.cs">
+    <Compile Include="MerchPage.aspx.cs">
       <DependentUpon>MerchPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="images\MerchPage.aspx.designer.cs">
+    <Compile Include="MerchPage.aspx.designer.cs">
       <DependentUpon>MerchPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
