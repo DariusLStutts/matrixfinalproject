@@ -1,14 +1,12 @@
 ﻿<Properties StartupConfiguration="{12481322-0B3C-4111-8235-766DCFB911CD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixMuscleCarProject/LandingPage.html">
-    <Files>
-      <File FileName="MatrixMuscleCarProject/LandingPage.html" Line="27" Column="49" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MatrixMuscleCarProject" expanded="True">
             <Node name="MatrixMuscleCarProject" expanded="True">
-              <Node name="ServicesPage.html" selected="True" />
+              <Node name="scripts" selected="True" />
+              <Node name="MerchPage.aspx" expanded="True" />
             </Node>
           </Node>
         </State>
