@@ -93,7 +93,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <Content Include="Services.aspx" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
@@ -106,6 +105,7 @@
   <ItemGroup>
     <Folder Include="doc\" />
     <Folder Include="images\shop\" />
+    <Folder Include="Properties\" />
     <Folder Include="scripts\" />
     <Folder Include="Properties\" />
   </ItemGroup>
