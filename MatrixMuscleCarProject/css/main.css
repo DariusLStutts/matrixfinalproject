@@ -70,7 +70,7 @@ nav a {
     padding-top: 10%;
     margin-left: 27%;
     margin-right: 27%; 
-    margin-bottom: 30%;
+    margin-bottom: 25%;
 }
 
 .section {
@@ -85,6 +85,7 @@ nav a {
  position: relative;
  top: 10px;
 }
+
 
 #floatinglogo {
     position: absolute;
@@ -130,6 +131,7 @@ nav a {
     text-decoration:none;
 }
 
+
 nav ul li {
     text-align: center;
     display: inline;
@@ -151,19 +153,39 @@ ul li img{
 }
 
 #CurrentProjects {
-    margin-top: 15%;
+    margin-top: 10%;
     padding-top: 5%;
+    margin-bottom: 15%;
 }
 
 #CurrentProjects #bluecar img {
- height: auto;
- width: 60%;
+    height:auto;
+    width:auto;
+}
+
+#CurrentProjects #greencar img {
+    height:20%;
+    width:auto;
+}
+
+#CurrentProjects #whitecar img {
+    height:auto;
+    width:auto;
+}
+
+#contact ul li{
+    display: inline;
+   
+}
+
+
+#contacttext {
+    padding-bottom: 3%;
 }
 
 .section {
     position: absolute;
     margin-top: 50%;
-    padding-bottom: 12%;
     z-index: 1;
 }
 video { 
@@ -175,6 +197,13 @@ video {
     padding-bottom: 500px;
 }
 
+#PastProjects {
+    position: absolute;
+    float: right;
+    justify-content: right;
+    padding-bottom: 10%;
+    background-color: white;
+}
 .container img {
     margin: 0;
 	padding: 0;
@@ -191,11 +220,17 @@ a img {
     height:50px;
 }
 
+
+
 #contact {
+    padding-top: 25px;
+    margin-top: 70%;
+    width: 100%;
+    position: absolute;
     display: block;
     background-color:#A31F36;
-    padding-top: 300px; 
     text-align: center;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 10%;
 }
