@@ -122,13 +122,43 @@ nav a {
     border-radius: 30px;
 }
 
-#aboutusborder p {
-    vertical-align: 50%;    
+#aboutprojectsborder {
+    background-color:#a31f36;
+    border: none;
+    color: white;
+    padding-top: 10px;
+    padding-right: 15px; 
+    padding-left: 15px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    position: absolute;
+    font-family: 'Oswald';
+    border-radius: 30px;
+}
+
+#a1 {
+    font-weight: 700;
+    font-family:'Arial Narrow Bold', sans-serif;
 }
 
 #aboutusborder p a{
     color: white;
     text-decoration:none;
+}
+
+#projectborder p a{
+    vertical-align: 50%;
+    color:white;
+    text-decoration: none;
+}
+
+#projectborder {
+    align-self: center;
+    margin:auto;
 }
 
 
@@ -198,6 +228,8 @@ video {
 }
 
 #PastProjects {
+    margin-top: 10%;
+    padding-top:5%;
     position: absolute;
     float: right;
     justify-content: right;
