@@ -26,6 +26,9 @@ time, mark, audio, video {
 strong {
     font-weight: bold;
 }
+body {
+    background-color: white;
+}
 
 p{
     font-weight:unset;
@@ -92,6 +95,10 @@ nav a {
     padding-top: 12%;
     padding-left: 32%;
     z-index: 1;
+}
+.center {
+    text-align: center;
+    margin:auto;
 }
 
 #floatinglogo img {
