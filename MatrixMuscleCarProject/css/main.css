@@ -23,34 +23,85 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+
 nav {             
     background-color: black;
     position: absolute;
     width: 100%; 
-    padding-top: 20px;
-    height: 40px;
+    height: 60px;
     display: block;
     position: fixed;
     z-index: 2;
 }
-
+nav ul {
+    padding-right: 30px;
+    margin-right:30px;
+}
 nav a {
     font-size: 25px;
     color: white;
+    font-family: 'Oswald', sans-serif;
     text-decoration: none;
+    font-weight: 300;
+    vertical-align: auto;
 }
 
+#aboutus {
+    position: relative;
+    width: 100%;
+}
+#logo {
+ position: relative;
+ top: 10px;
+}
 #floatinglogo {
     position: absolute;
-    padding-top: 10%;
-    padding-left: 30%;
+    padding-top: 12%;
+    padding-left: 32%;
     z-index: 1;
 }
 
+#floatinglogo img {
+    width: 80%;
+    height: auto;
+}
+
+#aboutusborder {
+    background-color:#a31f36;
+    border: none;
+    color: white;
+    padding-top: 10px;
+    padding-right: 15px; 
+    padding-left: 15px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 35px;
+    margin: 4px 2px;
+    position: absolute;
+    margin-top: 37.5%;
+    margin-left: 42.5%;
+    z-index: 2;
+    width: 10%;
+    height:4%;
+    font-family: Oswald;
+    border-radius: 30px;
+}
+
+#aboutusborder p {
+    vertical-align: 50%;    
+}
+
+#aboutusborder p a{
+    color: white;
+    text-decoration:none;
+}
 nav ul li {
     text-align: center;
     display: inline;
     padding: 20px;
+
     color: white; 
  
 } 
@@ -60,22 +111,8 @@ ul li img{
     size: 10px;
 }
 
-
-#aboutus { 
-    position: absolute;
-}
-
-#currentprojects { 
-    margin-top: 600px;
-}
-
-.container {
-    position: relative;
-}
 video { 
     width: 100%;
-    margin-right: 0;
-    padding:0; 
     border: 0;
     position: absolute;
     display: block;
@@ -84,21 +121,28 @@ video {
 
 }
 
+
+.container img {
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+    vertical-align: baseline;
+    width: 50px;
+    height:40px; 
+}
 a img {
     width: 50px;
     height:50px;
 }
 
-#contact ul li {
-    display: inline;
-   
-
-}
-
 #contact {
+    display: block;
     background-color:#A31F36;
     padding-top: 300px;
     margin-top: 150px; 
     text-align: center;
     color: white;
+    font-family: Arial, sans-serif;
 }
