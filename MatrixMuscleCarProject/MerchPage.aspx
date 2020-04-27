@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MerchPage.aspx.cs" Inherits="MatrixMuscleCarProject.images.MerchPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MerchPage.aspx.cs" Inherits="MatrixMuscleCarProject.MerchPage" %>
 
 <!DOCTYPE html>
 
