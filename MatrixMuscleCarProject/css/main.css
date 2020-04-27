@@ -93,7 +93,7 @@ nav a {
 #floatinglogo {
     position: absolute;
     padding-top: 12%;
-    padding-left: 32%;
+    padding-left: 28%;
     z-index: 1;
 }
 .center {
@@ -106,7 +106,7 @@ nav a {
     height: auto;
 }
 
-#aboutusborder {
+/* #aboutusborder {
     background-color:#a31f36;
     border: none;
     color: white;
@@ -119,15 +119,15 @@ nav a {
     display: inline-block;
     font-size: 35px;
     margin: 4px 2px;
-    position: absolute;
+    position: relative;
     margin-top: 37.5%;
     margin-left: 43.5%;
-    z-index: 2;
+    z-index: 1;
     width: 10%;
     height:4%;
     font-family: Oswald;
     border-radius: 30px;
-}
+} */
 
 #aboutprojectsborder {
     background-color:#a31f36;
@@ -236,12 +236,23 @@ video {
 
 #PastProjects {
     margin-top: 10%;
+    margin-bottom: 20%;
     padding-top:5%;
     position: absolute;
     float: right;
     justify-content: right;
     padding-bottom: 10%;
     background-color: white;
+}
+
+#PastProjects img {
+    float: left;
+    padding: 1px;
+}
+
+#aboutusborder p {
+    vertical-align: auto;
+
 }
 .container img {
     margin: 0;
@@ -263,9 +274,9 @@ a img {
 
 #contact {
     padding-top: 25px;
-    margin-top: 70%;
+    margin-top: 100%;
     width: 100%;
-    position: absolute;
+    position: relative;
     display: block;
     background-color:#A31F36;
     text-align: center;
