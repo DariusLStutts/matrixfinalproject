@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace MatrixMuscleCarProject.images
+namespace MatrixMuscleCarProject
 {
     public partial class MerchPage : System.Web.UI.Page
     {
