@@ -1,7 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMuscleCarProject", "MatrixMuscleCarProject.csproj", "{12481322-0B3C-4111-8235-766DCFB911CD}"
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMuscleCarProject", "MatrixMuscleCarProject\MatrixMuscleCarProject.csproj", "{12481322-0B3C-4111-8235-766DCFB911CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,11 @@ Global
 		{12481322-0B3C-4111-8235-766DCFB911CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12481322-0B3C-4111-8235-766DCFB911CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12481322-0B3C-4111-8235-766DCFB911CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2A39F1-0280-4624-909C-27B7F61B5CD8}
 	EndGlobalSection
 EndGlobal
